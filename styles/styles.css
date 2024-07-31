@@ -109,6 +109,11 @@ header {
     .black-box:hover {
         transform: scale(1.2);
     }
+
+    .socials {
+        padding-left: 15rem;
+        width: 10%;
+    }
 }
 
 @media (max-width: 800px) {
@@ -160,6 +165,11 @@ header {
 
     .footerlogo {
         width: 50%;
+    }
+
+    .socials {
+        padding-left: 3rem;
+        width: 15%;
     }
 }
 
