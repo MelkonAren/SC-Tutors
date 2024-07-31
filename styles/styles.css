@@ -185,6 +185,7 @@ header {
 }
 
 .overlay-text {
+    max-width: 10rem;
     position: absolute;
     top: 50%;
     left: 50%;
