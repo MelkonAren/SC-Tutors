@@ -241,7 +241,6 @@ header {
 }
 
 .hero-button {
-    margin: 0 .5rem;
     padding: .5rem 2rem;
     background-color: red;
     color: black;
