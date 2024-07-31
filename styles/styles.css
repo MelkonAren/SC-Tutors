@@ -168,8 +168,8 @@ header {
     }
 
     .socials {
+        max-width: 25%;
         padding-left: 3rem;
-        width: 15%;
     }
 }
 
